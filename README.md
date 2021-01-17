@@ -1,2 +1,2 @@
-# translator
-Translate text to five different languages
+# contoso
+ pyflask translator
